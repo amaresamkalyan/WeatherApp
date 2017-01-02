@@ -4,7 +4,7 @@ var About = (props) => {
     return (
         <div>
             <h1 className="text-center">About</h1>
-            <h3 className="text-center">My name is Kalyan Amaresam. </h3>
+            <h4 className="text-center">My name is Kalyan Amaresam. </h4>
             <p>This is a weather application build on React. I have built this
         for The Complete React Web App Developer Course.
       </p>
